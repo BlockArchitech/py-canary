@@ -1,9 +1,9 @@
 from distutils.core import setup
 
 setup(
-    name='py-canary',
+    name='py_canary',
     version='0.5.1',
-    packages=['canary'],
+    packages=['py_canary'],
     url='https://github.com/snjoetw/py-canary',
     license='MIT',
     author='snjoetw',
